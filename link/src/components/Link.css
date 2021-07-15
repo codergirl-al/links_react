@@ -1,0 +1,21 @@
+.linkBox {
+  width: 320px;
+  background-color: #81e7d8;
+  border-radius: 10px;
+  color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  margin: 10px;
+}
+
+.linkBox h1 {
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a::after {
+  text-decoration: none;
+}
